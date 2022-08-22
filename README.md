@@ -17,3 +17,4 @@
 ![Screenshot_20220823-034423](https://user-images.githubusercontent.com/111810934/186029754-fc572125-53bc-4eed-b23d-50745ef683c6.png)
 
 **Normal Mode**
+![Screenshot_20220823-034436](https://user-images.githubusercontent.com/111810934/186031655-a82c7974-68e4-47f5-b32d-42956d7b3e83.png)
